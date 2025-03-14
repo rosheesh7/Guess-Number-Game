@@ -1,0 +1,60 @@
+body{
+  font-family: "Poppins";
+  background-color: rgb(243, 242, 242);
+}
+
+.game-body{
+ background-color: white;
+  border: 2px solid rgb(209, 208, 208);
+  width: 500px;
+  height:300px;
+  margin: auto;
+  padding: 20px 40px;
+  border-radius: 25px;
+  box-shadow: 8px 8px 10px rgb(154, 154, 154);
+  margin-top: 30vh;
+
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  align-items: center;
+}
+
+.header{
+  font-size: 40px;
+  margin-bottom: 15px;
+  font-weight: bold;
+}
+
+.enter-message{
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.number-input{
+  font-size: 15px;
+  padding: 5px;
+  width: 50%;
+  margin-bottom: 20px;
+}
+
+.enter-button{
+  width: 25%;
+  font-size: 18px;
+  padding: 5px;
+  margin-bottom: 20px;
+}
+
+.chance-message,
+.guess-message,
+.Error-decision{
+  font-size: 18px;
+}
+.final-decision{
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.Error-decision{
+  color: red;
+}
