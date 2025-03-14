@@ -22,6 +22,11 @@ A simple web-based number guessing game where the player has to guess a randomly
 4. You have 10 chances to guess the correct number. If you run out of chances, you lose.
 5. If you guess correctly, the game will display a winning message with the number of chances used.
 
+### **Game Image** 
+
+![Game Image](./Game.png)
+
+
 ### **Future Improvements**
 - **Game Modes**: I will categorize this game into 3 difficulty modes:
   - **Easy**: Number range between 1-10
