@@ -39,5 +39,5 @@ A simple web-based number guessing game where the player has to guess a randomly
 - **Multiple Player Mode**: Allow two players to compete against each other for the best score.
 
 ### **Author**
-- **Rosis Sharma**: [Your GitHub Profile](https://github.com/rosheesh7)
+- **Rosis Sharma**: [My GitHub Profile](https://github.com/rosheesh7)
 ```
